@@ -9,7 +9,8 @@ In this project we are doing a comparative study between all these algorithm and
 ![image](https://user-images.githubusercontent.com/53509075/180657078-0c8d06e1-d26d-4d9e-ae66-1832d536391b.png)
 
 
-PROPOSED CNN BLOCK DIAGRAM
+PROPOSED CNN BLOCK DIAGRAM & SUMMARY
+
 ![image](https://user-images.githubusercontent.com/53509075/180657089-7bda86bc-742e-40b7-9ef4-2c3a44b98b83.png)
 
 
